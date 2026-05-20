@@ -1,4 +1,3 @@
-![My picture](https://res.cloudinary.com/dnfixdqzg/image/upload/c_fill,w_200,h_200,ar_1:1/v1779317272/IMG_0005_creenh.jpg)
 
 Hi 👋 My name is Eugene Ebenezer
 =======================================================================
